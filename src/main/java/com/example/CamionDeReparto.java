@@ -1,3 +1,4 @@
+package main.java.com.example;
 public class CamionDeReparto extends Transporte {
     // Atributo privado específico
     private boolean tieneRefrigeracion;

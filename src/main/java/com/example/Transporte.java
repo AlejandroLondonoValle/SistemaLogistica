@@ -1,3 +1,4 @@
+package main.java.com.example;
 public class Transporte {
     private String idTransporte;
     private double combustible;
